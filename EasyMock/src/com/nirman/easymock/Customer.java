@@ -24,5 +24,6 @@ public class Customer {
 	public void setRetailer(Retailer retailer) {
 		this.retailer = retailer;
 	}
-
+	
+	System.out.println("test MEssage!");
 }
