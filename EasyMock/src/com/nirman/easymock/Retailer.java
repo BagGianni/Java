@@ -30,4 +30,23 @@ public class Retailer {
 	public String myTaxRate() {
 		return "100%";
 	}
+	
+	public vid test123() {
+		System.out.println("This is a test message");
+	}
+	public vid test123() {
+		System.out.println("This is a test message");
+	}
+	public vid test123() {
+		System.out.println("This is a test message");
+	}
+	public vid test123() {
+		System.out.println("This is a test message");
+	}
+	
+	public vid test123() {
+		System.out.println("This is a test message");
+	}
+	
+	
 }
